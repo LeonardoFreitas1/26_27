@@ -1,0 +1,19 @@
+{
+  "name": "busca-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoFreitas1/Busca-Google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoFreitas1/Busca-Google/issues"
+  },
+  "homepage": "https://github.com/LeonardoFreitas1/Busca-Google#readme"
+}
